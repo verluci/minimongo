@@ -51,7 +51,7 @@
     "vinyl-buffer": "0.0.0",
     "vinyl-source-stream": "^0.1.1",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.7.1"
+    "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
     "@turf/boolean-crosses": "^6.0.1",
