@@ -50,7 +50,7 @@
     "ts-loader": "^6.2.2",
     "vinyl-buffer": "0.0.0",
     "vinyl-source-stream": "^0.1.1",
-    "webpack": "^3.5.5",
+    "webpack": "^5.74.0",
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
